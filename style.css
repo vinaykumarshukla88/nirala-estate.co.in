@@ -1,0 +1,257 @@
+
+        #sppb-addon-1507611918 .sppb-addon-title {
+            margin-bottom: 15px;
+        }
+
+        #sppb-addon-1507611918 .sppb-addon-cta {
+            padding: 40px 20px;
+        }
+
+        #sppb-addon-1507611918 .sppb-cta-subtitle {
+            color: #ffffff;
+            font-family: 'Raleway', sans-serif;
+            font-weight: 600;
+        }
+
+        .sp-page-builder .page-content #section-id-1507611919 {
+            margin: 0 0 0 0;
+        }
+
+        .sp-page-builder .page-content #AboutUs .sppb-section-title .sppb-title-heading {
+            font-size: 36px;
+            line-height: 36px;
+            font-weight: 700;
+            /*margin-bottom: 100px;*/
+        }
+
+        #sppb-addon-1507611926 .sppb-empty-space {
+            padding-bottom: 38px;
+        }
+
+        #sppb-addon-1507611927 .sppb-addon-title {
+            margin-bottom: 35px;
+            color: #973393;
+        }
+
+        #sppb-addon-1507611927 .sppb-addon-cta {
+            padding: 40px 20px;
+        }
+
+        #sppb-addon-1507611927 .sppb-cta-subtitle {
+            font-size: 30px;
+            line-height: 30px;
+        }
+
+        #sppb-addon-1507611928 .sppb-empty-space {
+            padding-bottom: 60px;
+        }
+
+        .sp-page-builder .page-content #Connectivity {
+            /*margin: 90px 0 90px 0;*/
+            padding-top: 70px;
+            padding-bottom: 50px;
+        }
+
+        #sppb-addon-1507611932 .sppb-empty-space {
+            padding-bottom: 38px;
+        }
+
+        #sppb-addon-1507611933 .sppb-addon-title {
+            margin-bottom: 35px;
+        }
+
+        #sppb-addon-1507611933 .sppb-addon-cta {
+            padding: 40px 20px;
+        }
+
+        #sppb-addon-1507611933 .sppb-cta-subtitle {
+            font-size: 30px;
+            line-height: 30px;
+        }
+
+        #sppb-addon-1507611934 .sppb-empty-space {
+            padding-bottom: 60px;
+        }
+
+        .sp-page-builder .page-content #PriceList {
+            /*padding: 115px 0;*/
+            background-image: url(images/Gallery/Exterior/slider-image4.jpg);
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: 50% 50%;
+        }
+
+        #sppb-addon-1507611940 .sppb-addon-title {
+            margin-bottom: 15px;
+            font-size: 57px;
+            line-height: 47px;
+            color: #fff;
+            font-family: 'Montserrat-SemiBold';
+        }
+
+        #sppb-addon-1507611940 .sppb-addon-cta {
+            padding: 40px 20px;
+        }
+
+        #sppb-addon-1507611940 .sppb-cta-subtitle {
+            color: #ffffff;
+            font-size: 25px;
+            line-height: 24px;
+            font-weight: 600;
+            font-family: 'Montserrat-SemiBold';
+        }
+
+        .sp-page-builder .page-content #Gallery {
+            margin: 0 0 15px 0;
+        }
+
+        .sp-page-builder .page-content #Gallery .sppb-section-title .sppb-title-heading {
+            font-size: 36px;
+            line-height: 36px;
+            font-weight: 700;
+            /*	margin-bottom: 100px;*/
+        }
+
+        .sp-page-builder .page-content #location {
+            /*padding: 110px 0px 0px 0px;*/
+            /*background-image: url(images/demo/testimonial-bg.png);*/
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: 50% 50%;
+            background: #fff;
+            margin-top: 0px;
+        }
+
+        #column-id-1507611945 {
+            color: #ffffff;
+        }
+
+        .sp-page-builder .page-content #ContactUs {
+            /*margin: 0 0 110px 0;*/
+        }
+
+        .sp-page-builder .page-content #ContactUs .sppb-section-title .sppb-title-heading {
+            font-size: 36px;
+            line-height: 36px;
+            font-weight: 700;
+            margin-top: 30px;
+            margin-bottom: 100px;
+        }
+		
+	  .sppb-column-addons.bor_der {
+
+      background-color: #e3e3e33b;
+      border: 2px solid #0078bf;
+  }	
+		
+		#Loan {
+            /*margin: 0 0 110px 0;*/
+        }
+
+        #Loan {
+
+            margin-top: 30px;
+            margin-bottom: 100px;
+        }
+
+        #sppb-addon-1507611954 .sppb-addon-gmap-canvas {
+            height: 450px;
+        }
+
+        body {
+            font-family: Fira Sans, sans-serif;
+            font-size: 14px;
+            font-weight: 300;
+        }
+
+        h1 {
+            font-family: Cinzel, sans-serif;
+            font-weight: 700;
+        }
+
+        h2 {
+            font-family: Cinzel, sans-serif;
+            font-weight: 700;
+        }
+
+        h3 {
+            font-family: Cinzel, sans-serif;
+            font-size: 30px;
+            font-weight: 700;
+        }
+
+        h4 {
+            font-family: Fira Sans, sans-serif;
+            font-size: 16px;
+            font-weight: 300;
+        }
+
+        h5 {
+            font-family: Open Sans, sans-serif;
+            font-weight: 600;
+        }
+
+        h6 {
+            font-family: Open Sans, sans-serif;
+            font-weight: 600;
+        }
+
+        .sp-megamenu-parent {
+            font-family: Fira Sans, sans-serif;
+            font-weight: 300;
+        }
+
+        .rooms-suits .sppb-cta-subtitle {
+            font-family: Fira Sans, sans-serif;
+            font-weight: 300;
+        }
+
+        #sp-top-bar {
+            color: #ffffff;
+        }
+
+        #sp-bottom {
+            background-color: #493e3e;
+            padding: 35px 0 0 0;
+        }
+		
+		.whats-app {
+		position: fixed;
+		width: 55px;
+		height: 55px;
+		bottom: 20px;
+		border-radius: 50px;
+		text-align: center;
+		box-shadow: 2px 2px 3px #999;
+		z-index: 100;
+		left: 10px;
+		background-color: #25d366;
+		}
+		
+		
+		 .section-title {
+			padding-bottom: 40px;
+			align-items: center;
+            justify-content: center;
+		  }
+
+		  .section-title h2 {
+			margin: 0;
+		  }
+
+		  .section-title small {
+			display: block;
+		  }
+		
+		
+#outer{width:90%;max-width:600px;background:#fff;margin:0 auto}
+#cover{border:2px solid #111;padding:15px 0}
+.main{table-layout:fixed;width:94%;border:0;border-collapse:collapse;margin:0 auto}
+.main td{padding:0 8px;vertical-align:middle;border:0}
+.main input{width:100%;border:1px solid #ccc;margin:2px 0;padding:0 2%;height:22px;text-align:right}.ac{text-align:center}.b{font-weight:bold}
+.main select{width:100%;border:1px solid #ccc;margin:2px 0;background:#fff;height:22px}.w50{width:50%}.main button{width:100%;font-weight:bold;margin:3px 0}
+		
+.footer-bottom {
+    padding: 20px 0;
+    background-color: #f5ebeb;
+}		
